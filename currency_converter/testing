@@ -1,0 +1,2 @@
+import
+self.uic = loadUi('./gui/cex.ui', self)
